@@ -1,3 +1,6 @@
 {
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Pages",
+  "spellcheck": true
 }
