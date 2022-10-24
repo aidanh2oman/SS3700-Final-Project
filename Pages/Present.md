@@ -1,4 +1,10 @@
-Observations
+---
+tags :
+- Page/Linked/Formatted/Unedited
+creation date : 2022-10-24 12:21 
+---
+
+
 
 ---
 ##### Related
@@ -11,11 +17,12 @@ Observations
 ---
 ##### Hierarchy
 ###### Up
-up:: 
+up:: [[Home]]
 ###### Down
 down:: 
 ###### Same
-same:: 
+same:: [[Past]]
+same:: [[Future]]
 ###### Next
 next:: 
 ###### Previous

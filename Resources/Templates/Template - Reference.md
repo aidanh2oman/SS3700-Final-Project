@@ -1,23 +1,25 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited/Unresearched
+- Reference/Linked/Formatted/Unedited
 creation date : <% tp.file.creation_date() %> 
 ---
 
+## Abstract
 
 
----
-##### Related
+## Key Findings
 
 
----
-##### References
+## Important Notes
+
+
+## Other Notes
 
 
 ---
 ##### Hierarchy
 ###### Up
-up:: 
+up:: [[References]]
 ###### Down
 down:: 
 ###### Same

@@ -2,13 +2,9 @@
 [[Present]]
 [[Future]]
 
----
-##### Related
+[[References]]
 
-
----
-##### References
-
+[[Resources]]
 
 ---
 ##### Hierarchy
@@ -18,6 +14,8 @@ up::
 down:: [[Past]]
 down:: [[Present]]
 down:: [[Future]]
+down:: [[References]]
+down:: [[Resources]]
 ###### Same
 same:: 
 ###### Next

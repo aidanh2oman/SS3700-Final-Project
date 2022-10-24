@@ -1,23 +1,15 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited/Unresearched
+- Resource
 creation date : <% tp.file.creation_date() %> 
 ---
 
 
 
 ---
-##### Related
-
-
----
-##### References
-
-
----
 ##### Hierarchy
 ###### Up
-up:: 
+up:: [[Resources]]
 ###### Down
 down:: 
 ###### Same

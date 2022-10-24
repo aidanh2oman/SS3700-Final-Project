@@ -1,10 +1,10 @@
 ---
 tags :
 - Page/Linked/Formatted/Unedited
-creation date : 2022-10-24 12:10 
+creation date : 2022-10-24 12:40 
 ---
 
-#TODO
+
 
 ---
 ##### Related
@@ -17,12 +17,11 @@ creation date : 2022-10-24 12:10
 ---
 ##### Hierarchy
 ###### Up
-up:: [[Home]]
+up:: 
 ###### Down
 down:: 
 ###### Same
-same:: [[Present]]
-same:: [[Future]]
+same:: 
 ###### Next
 next:: 
 ###### Previous

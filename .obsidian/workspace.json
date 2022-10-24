@@ -8,31 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e04045fbe4645068",
+            "id": "f832e0664355446e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Plugins.md",
+                "file": "Resources/Style Guides/Style Guide - Page - Unedited.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "67d808a0da9259df",
+            "id": "160af7fa08afd8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Present.md",
+                "file": "Resources/Style Guides/Style Guide - Page - Formatted.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "493e13c0689cd750",
+            "id": "02db9aa066bca095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Task Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86acff1a863700b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Templates/Template - Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5658ba75bd7975f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4df0feafbafcb52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Past.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "28d7e284fc81e215",
@@ -115,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pages/Present.md",
+                "file": "Resources/Task Management.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,12 +144,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "collapse-forces": false,
+                  "centerStrength": 0.875,
+                  "repelStrength": 3.75,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.8821707918269133,
+                  "linkDistance": 172,
+                  "scale": 0.834083304919663,
                   "close": true
                 }
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Present.md",
+                "file": "Resources/Task Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Present.md",
+                "file": "Resources/Task Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Present.md"
+                "file": "Resources/Task Management.md"
               }
             }
           },
@@ -224,20 +235,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "67d808a0da9259df",
+  "active": "02db9aa066bca095",
   "lastOpenFiles": [
-    "Pages/Home.md",
-    "Pages/Past.md",
-    "Pages/Future.md",
-    "Pages/Present.md",
+    "Resources/Templates/Templates.md",
+    "Resources/Task Management.md",
+    "Resources/Templates/Template - Reference.md",
     "Resources/Templates/Template - Page.md",
-    "Resources/Plugins.md",
-    "Resources/Style Guides.md"
+    "Pages/Past.md",
+    "Pages/Untitled Kanban.md",
+    "Pages/Resources.md",
+    "Pages/Home.md",
+    "Resources/Style Guides/Style Guides.md",
+    "Resources/Style Guides/Style Guide - Page - Formatted.md"
   ]
 }

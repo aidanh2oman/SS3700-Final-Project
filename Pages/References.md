@@ -1,10 +1,4 @@
----
-tags :
-- Page/Linked/Formatted/Unedited
-creation date : 2022-10-24 12:10 
----
-
-#TODO
+Link all reference notes here, could use dataview or manual linking and organization.
 
 ---
 ##### Related
@@ -21,8 +15,7 @@ up:: [[Home]]
 ###### Down
 down:: 
 ###### Same
-same:: [[Present]]
-same:: [[Future]]
+same:: 
 ###### Next
 next:: 
 ###### Previous
