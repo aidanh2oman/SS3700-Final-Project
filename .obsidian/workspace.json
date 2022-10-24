@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Task Management.md",
+                "file": "Pages/Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,6 +119,7 @@
       {
         "id": "82f90ee325f418e8",
         "type": "tabs",
+        "dimension": 42.5513698630137,
         "children": [
           {
             "id": "bc5678134e2fd5ab",
@@ -126,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Task Management.md",
+                "file": "Pages/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Task Management.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Task Management.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Task Management.md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -222,6 +223,7 @@
       {
         "id": "d36ef9af28c44922",
         "type": "tabs",
+        "dimension": 57.4486301369863,
         "children": [
           {
             "id": "4d92e92fccc11a3c",
@@ -242,15 +244,15 @@
   },
   "active": "02db9aa066bca095",
   "lastOpenFiles": [
-    "Resources/Templates/Templates.md",
+    "Pages/References.md",
+    "Pages/Home.md",
     "Resources/Task Management.md",
+    "Resources/Templates/Templates.md",
     "Resources/Templates/Template - Reference.md",
     "Resources/Templates/Template - Page.md",
     "Pages/Past.md",
     "Pages/Untitled Kanban.md",
     "Pages/Resources.md",
-    "Pages/Home.md",
-    "Resources/Style Guides/Style Guides.md",
-    "Resources/Style Guides/Style Guide - Page - Formatted.md"
+    "Resources/Style Guides/Style Guides.md"
   ]
 }
