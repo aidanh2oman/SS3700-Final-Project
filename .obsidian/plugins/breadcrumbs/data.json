@@ -53,10 +53,10 @@
   "showBCsInEditLPMode": true,
   "showRefreshNotice": true,
   "showImpliedRelations": true,
-  "showTrail": true,
+  "showTrail": false,
   "showGrid": false,
-  "showJuggl": false,
-  "showPrevNext": true,
+  "showJuggl": true,
+  "showPrevNext": false,
   "sortByNameShowAlias": false,
   "squareDirectionsOrder": [
     0,

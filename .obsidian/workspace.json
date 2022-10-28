@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "96e9e6345cd07c77",
+        "id": "d260d92b3926f147",
         "type": "tabs",
         "children": [
           {
-            "id": "9d103bc224dedcb1",
+            "id": "eaef916b25e34ce1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Present.md",
+                "file": "Pages/Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pages/Present.md",
+                "file": "Pages/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Present.md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Present.md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,8 +153,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Present.md"
+                "file": "Pages/Home.md"
               }
+            }
+          },
+          {
+            "id": "1b58f8309245e1d5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c1332f35def0b8c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
         ]
@@ -178,8 +194,10 @@
     "direction": "horizontal",
     "width": 387.5
   },
-  "active": "9d103bc224dedcb1",
+  "active": "eaef916b25e34ce1",
   "lastOpenFiles": [
+    "Pages/Future.md",
+    "Pages/Past.md",
     "Pages/Home.md",
     "Pages/Present.md",
     "Pages/References.md",
@@ -187,8 +205,6 @@
     "Resources/Templates/Templates.md",
     "Resources/Templates/Template - Reference.md",
     "Resources/Templates/Template - Page.md",
-    "Pages/Past.md",
-    "Pages/Untitled Kanban.md",
-    "Pages/Resources.md"
+    "Pages/Untitled Kanban.md"
   ]
 }
