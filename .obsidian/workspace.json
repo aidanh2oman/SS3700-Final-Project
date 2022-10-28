@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8f26ada78123768f",
+        "id": "96e9e6345cd07c77",
         "type": "tabs",
         "children": [
           {
-            "id": "f832e0664355446e",
+            "id": "9d103bc224dedcb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Style Guides/Style Guide - Page - Unedited.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "160af7fa08afd8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Style Guides/Style Guide - Page - Formatted.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02db9aa066bca095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86acff1a863700b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Templates/Template - Reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5658ba75bd7975f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Templates/Template - Page.md",
+                "file": "Pages/Present.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/Present.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/Present.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/Present.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,19 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
-              }
-            }
-          },
-          {
-            "id": "13bc6dfabd55eba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Past.md",
-                "mode": "source",
-                "source": false
+                "file": "Pages/Present.md"
               }
             }
           }
@@ -239,20 +178,17 @@
     "direction": "horizontal",
     "width": 387.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "02db9aa066bca095",
+  "active": "9d103bc224dedcb1",
   "lastOpenFiles": [
-    "Pages/References.md",
     "Pages/Home.md",
+    "Pages/Present.md",
+    "Pages/References.md",
     "Resources/Task Management.md",
     "Resources/Templates/Templates.md",
     "Resources/Templates/Template - Reference.md",
     "Resources/Templates/Template - Page.md",
     "Pages/Past.md",
     "Pages/Untitled Kanban.md",
-    "Pages/Resources.md",
-    "Resources/Style Guides/Style Guides.md"
+    "Pages/Resources.md"
   ]
 }
