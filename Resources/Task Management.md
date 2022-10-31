@@ -4,6 +4,11 @@ tags :
 creation date : 2022-10-24 12:44 
 ---
 
+## Plan
+make pages for each note we want to mention, link hierarchy. 
+
+once hierarchy is made, we can start accumulating points and explaining links
+
 ## Pages
 ### Pages to Format
 ```dataview

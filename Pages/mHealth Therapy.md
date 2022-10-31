@@ -1,10 +1,10 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited
-creation date : 2022-10-24 12:21 
+- Page/Linked/Formatted/Unedited/Unresearched
+creation date : 2022-10-31 11:27 
 ---
 
-idea 1
+
 
 ---
 ##### Related
@@ -17,12 +17,11 @@ idea 1
 ---
 ##### Hierarchy
 ###### Up
-up:: [[Home]]
+up:: [[Present (2020-2023)]]
 ###### Down
 down:: 
 ###### Same
-same:: [[Past]]
-same:: [[Future]]
+same:: 
 ###### Next
 next:: 
 ###### Previous
