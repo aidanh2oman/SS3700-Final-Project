@@ -8,7 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "922fcd4182bd86e5",
+            "id": "14612e469140d092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c8cae76bb668782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/Future.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "686a24fb9516028c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/Current Digital Technologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e08ed7464f66c943",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pages/History (2000-2020).md",
+                "file": "Pages/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -114,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/History (2000-2020).md",
+                "file": "Pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/History (2000-2020).md",
+                "file": "Pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/History (2000-2020).md"
+                "file": "Pages/Home.md"
               }
             }
           },
@@ -195,17 +231,17 @@
     "direction": "horizontal",
     "width": 387.5
   },
-  "active": "922fcd4182bd86e5",
+  "active": "14612e469140d092",
   "lastOpenFiles": [
+    "Pages/Shared Decision Making (SDM).md",
     "Pages/Home.md",
-    "Pages/Present (2020-2023).md",
-    "Pages/Current Digital Technologies.md",
-    "Pages/Offline Digital Tools.md",
-    "Pages/Telepsychiatry.md",
-    "Pages/History (2000-2020).md",
-    "Pages/mHealth Therapy.md",
+    "Pages/Therapeutic Alliance.md",
+    "Pages/Medical Scribes.md",
+    "Pages/Clinical Decision Support (CDS).md",
     "Pages/Precision Psychiatry.md",
-    "Pages/Psychoanalytical Tradition.md",
-    "Pages/CBT.md"
+    "Pages/Digital Medicine System (DMS).md",
+    "Pages/Avatar Therapy.md",
+    "Pages/Deductive Disclosure.md",
+    "Pages/Apps for Suicide Prevention.md"
   ]
 }
