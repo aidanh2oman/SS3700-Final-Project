@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/History (2000-2020).md",
+                "file": "Pages/Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ryan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,12 +57,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "28d7e284fc81e215",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/History (2000-2020).md",
+                "file": "Pages/Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -116,15 +117,15 @@
   },
   "active": "cbd036f5562ae3fb",
   "lastOpenFiles": [
-    "Pages/Therapeutic Alliance.md",
-    "Pages/History (2000-2020).md",
-    "Pages/Present (2020-2023).md",
     "Pages/Home.md",
-    "Pages/Digital Cognitive Behavioral Therapy (C-CBT and I-CBT).md",
-    "Pages/mHealth Therapy.md",
-    "Pages/Digital Medicine System (DMS).md",
-    "Pages/Shared Decision Making (SDM).md",
-    "Pages/Medical Scribes.md",
-    "Pages/Clinical Decision Support (CDS).md"
+    "Pages/Non-Verbal Communication.md",
+    "Resources/Task Management.md",
+    "Pages/Psychoanalytical Tradition.md",
+    "Pages/Rapid Communication.md",
+    "Pages/Hologram Communication.md",
+    "Pages/Avatar Therapy.md",
+    "Pages/Virtual and Augmented Reality.md",
+    "Pages/Therapeutic Alliance.md",
+    "Pages/Telepsychiatry.md"
   ]
 }

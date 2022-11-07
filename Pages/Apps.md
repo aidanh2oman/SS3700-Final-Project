@@ -1,14 +1,14 @@
 ---
 tags :
 - Page/Linked/Formatted/Unedited/Unresearched
-creation date : 2022-10-31 11:28 
+creation date : 2022-11-07 11:29 
 ---
 
-#TODO Write overview for CBT
+#elle 
 
 ---
 ##### Related
-[[Digital CBT]]
+
 
 ---
 ##### References
@@ -17,7 +17,7 @@ creation date : 2022-10-31 11:28
 ---
 ##### Hierarchy
 ###### Up
-up:: [[History (2000-2020)]], [[Present (2020-2023)]]
+up:: 
 ###### Down
 down:: 
 ###### Same

@@ -6,7 +6,7 @@ creation date : 2022-10-24 12:21
 
 mention [[Proposed Digital Technologies]]
 
-recommendations and concerns
+#TODO Recommendations and concerns, our own ideas and reflections, different from unbiased info on history and present.
 
 ---
 ##### Related
