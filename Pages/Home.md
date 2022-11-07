@@ -18,21 +18,12 @@ creation date : 2022-10-24 12:10
 - Multiple Composite Scenarios (MCS)
 	- Shows the removal of patient physician relations
 	- A perfect example of how digital technologies can have positive effects on mental health
-- [[mHealth Therapy]]
-- [[Digital Cognitive Behavioral Therapy (C-CBT and I-CBT)]]
-- most apps arent well tested
-- [[Telepsychiatry]]
-- [[Hologram Communication]]
-- [[Just-In-Time Adaptive Interventions (JITAI)]]
-- [[Apps for Suicide Prevention]]
-- [[Deductive Disclosure]]
-- [[Avatar Therapy]]
-- [[Digital Medicine System (DMS)]]
-- [[Precision Psychiatry]]
-- [[Clinical Decision Support (CDS)]]
-- [[Medical Scribes]]
-- [[Therapeutic Alliance]]
-- [[Shared Decision Making (SDM)]]
+
+
+- Apps
+	- most apps aren't well tested
+- Non-Verbal Communication
+
 
 ---
 
