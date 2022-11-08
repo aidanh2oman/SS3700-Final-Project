@@ -4,9 +4,6 @@
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
         "id": "bd5c7ed22d8a3647",
         "type": "tabs",
         "children": [
@@ -16,27 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Virtual and Augmented Reality.md",
+                "file": "Pages/Proposed Digital Technologies.md",
                 "mode": "source",
                 "source": false
               }
             }
-=======
->>>>>>> Stashed changes
-        "id": "972c341f5ca51e3e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Pages/Home.md",
-            "mode": "source",
-            "source": false
-<<<<<<< Updated upstream
-=======
->>>>>>> 7ba182bf6840b346bd1518f8641f2c70856c3c07
->>>>>>> Stashed changes
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#joseph",
+                "query": "tag:#ryan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,15 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Pages/Home.md",
-=======
-<<<<<<< HEAD
-                "file": "Pages/Virtual and Augmented Reality.md",
-=======
-                "file": "Pages/Home.md",
->>>>>>> 7ba182bf6840b346bd1518f8641f2c70856c3c07
->>>>>>> Stashed changes
+                "file": "Pages/Proposed Digital Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,69 +109,29 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "bbb83e6895e4d94f",
-=======
-<<<<<<< HEAD
             "id": "6d1c85c192b79afd",
-=======
-            "id": "bbb83e6895e4d94f",
->>>>>>> 7ba182bf6840b346bd1518f8641f2c70856c3c07
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Pages/Home.md",
-=======
-<<<<<<< HEAD
-                "file": "Pages/Virtual and Augmented Reality.md",
-=======
-                "file": "Pages/Home.md",
->>>>>>> 7ba182bf6840b346bd1518f8641f2c70856c3c07
->>>>>>> Stashed changes
+                "file": "Pages/Proposed Digital Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "eabf81c56a5a5fa0",
-=======
-<<<<<<< HEAD
             "id": "dfd1df37ed9e6dd6",
-=======
-            "id": "eabf81c56a5a5fa0",
->>>>>>> 7ba182bf6840b346bd1518f8641f2c70856c3c07
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Pages/Home.md"
-=======
-<<<<<<< HEAD
-                "file": "Pages/Virtual and Augmented Reality.md"
-=======
-                "file": "Pages/Home.md"
->>>>>>> 7ba182bf6840b346bd1518f8641f2c70856c3c07
->>>>>>> Stashed changes
+                "file": "Pages/Proposed Digital Technologies.md"
               }
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "044655de68391f36",
-=======
-<<<<<<< HEAD
             "id": "5a84e5783f31ae3d",
-=======
-            "id": "044655de68391f36",
->>>>>>> 7ba182bf6840b346bd1518f8641f2c70856c3c07
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -204,15 +139,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "b6f228aa54b6f718",
-=======
-<<<<<<< HEAD
             "id": "7bf6039d5c7eaea6",
-=======
-            "id": "b6f228aa54b6f718",
->>>>>>> 7ba182bf6840b346bd1518f8641f2c70856c3c07
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -226,25 +153,17 @@
     "direction": "horizontal",
     "width": 323.5
   },
-<<<<<<< Updated upstream
-  "active": "972c341f5ca51e3e",
-=======
-<<<<<<< HEAD
   "active": "642e564b04ec184e",
-=======
-  "active": "972c341f5ca51e3e",
->>>>>>> 7ba182bf6840b346bd1518f8641f2c70856c3c07
->>>>>>> Stashed changes
   "lastOpenFiles": [
+    "Resources/Task Management.md",
+    "Pages/Precision Psychiatry.md",
+    "Pages/Shared Decision Making (SDM).md",
+    "Pages/Rapid Communication.md",
+    "Pages/Proposed Digital Technologies.md",
+    "Pages/Psychoanalytical Tradition.md",
+    "Pages/Virtual and Augmented Reality.md",
     "Pages/Therapeutic Alliance.md",
     "Pages/Telepsychiatry.md",
-    "Pages/Home.md",
-    "Pages/Non-Verbal Communication.md",
-    "Resources/Task Management.md",
-    "Pages/Psychoanalytical Tradition.md",
-    "Pages/Rapid Communication.md",
-    "Pages/Hologram Communication.md",
-    "Pages/Avatar Therapy.md",
-    "Pages/Virtual and Augmented Reality.md"
+    "Pages/Home.md"
   ]
 }
