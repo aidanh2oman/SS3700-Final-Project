@@ -5,6 +5,9 @@ creation date : 2022-10-31 11:28
 ---
 
 #TODO Write overview for CBT
+<<<<<<< HEAD
+#elle
+=======
 
 “The protocol proposed by CBT to help patients deal with the effects produced by risk factors is the following: (1) address negative emotions, to help patients regulate their mood; (2) correct dysfunctional cognitions (negative thoughts and memories) by identifying expressed bias and evaluating their validity and usability, to elaborate better adaptive interpretations of the original cognitions; (3) challenge intermediate beliefs (attitudes, rules, and assumptions) held by the patient, to favour cognitive flexibility in the patient; and (4) debilitate the strength and rigidity with which the patient holds a negative core belief(s), to uproot the disorder [15,105,108].” ([pdf](zotero://open-pdf/library/items/V7EQ44H3?page=3&annotation=INUBS85V))
 ^^^
@@ -22,6 +25,10 @@ creation date : 2022-10-31 11:28
 
 “Experts observe that a patient is more willing to defend the positive qualities of others rather than of him- or herself. For that reason, the patient is asked to defend a different person based on the same conditions [105]. The steps of this technique are: (1) ask patient to consider the case of other person; (2) use patient’s negative memories to judge the other person and ask patient to defend him/her; (3) listen to pa tient’s defence of other person, consider validity of defence, and summarize elements of defence; and (4) ask patientto reflect on why she can easily defend others yet criticize herself.” ([pdf](zotero://open-pdf/library/items/V7EQ44H3?page=7&annotation=DG7Q6IP5))
 
+<<<<<<< Updated upstream
+=======
+>>>>>>> cc8070497cef146e089a93f4f6a8ac4c6ad406e2
+>>>>>>> Stashed changes
 ---
 ##### Related
 [[Digital CBT]]
