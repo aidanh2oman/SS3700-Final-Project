@@ -15,7 +15,7 @@ creation date : 2022-10-24 12:10
 [[Future]]
 
 ##### Aidan Page Ideas
-- Multiple Composite Scenarios (MCS) - #aidan
+- [[Multiple Composite Scenarios (MCS)]] - #aidan
 	- Shows the removal of patient physician relations
 	- A perfect example of how digital technologies can have positive effects on mental health
 

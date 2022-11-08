@@ -1,10 +1,10 @@
 ---
 tags :
 - Page/Linked/Formatted/Unedited/Unresearched
-creation date : 2022-10-31 11:28 
+creation date : 2022-11-08 11:35 
 ---
 
-One example of Digital CBT is [[Multiple Composite Scenarios (MCS)]]
+Multiple Composite Scenarios (MCS) is a [[Health Games|Health Game]]
 
 ---
 ##### Related
@@ -17,9 +17,9 @@ One example of Digital CBT is [[Multiple Composite Scenarios (MCS)]]
 ---
 ##### Hierarchy
 ###### Up
-up:: [[Present (2020-2023)]]
+up:: 
 ###### Down
-down:: [[Multiple Composite Scenarios (MCS)]]
+down:: 
 ###### Same
 same:: 
 ###### Next
