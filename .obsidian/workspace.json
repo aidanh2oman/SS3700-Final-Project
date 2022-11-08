@@ -4,111 +4,22 @@
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-        "id": "b68694f0fb9388d9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Resources/Task Management.md",
-            "mode": "source",
-            "source": false
-=======
->>>>>>> Stashed changes
-        "id": "e2f7f69ca526368a",
+        "id": "d43126648ed274ce",
         "type": "tabs",
         "children": [
           {
-            "id": "14612e469140d092",
+            "id": "e8c23e6b4c6f8a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Pages/CBT.md",
-<<<<<<< Updated upstream
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5c8cae76bb668782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Future.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "686a24fb9516028c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Current Digital Technologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e08ed7464f66c943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/History (2000-2020).md",
-=======
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c8cae76bb668782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Future.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "686a24fb9516028c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Current Digital Technologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e08ed7464f66c943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/History (2000-2020).md",
-                "mode": "source",
-                "source": false
-              }
-            }
->>>>>>> cc8070497cef146e089a93f4f6a8ac4c6ad406e2
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,15 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< Updated upstream
-                "query": "",
-=======
-<<<<<<< HEAD
                 "query": "tag:#TODO",
-=======
-                "query": "",
->>>>>>> cc8070497cef146e089a93f4f6a8ac4c6ad406e2
->>>>>>> Stashed changes
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,43 +70,15 @@
     "type": "split",
     "children": [
       {
-        "id": "82f90ee325f418e8",
+        "id": "d36ef9af28c44922",
         "type": "tabs",
-        "dimension": 42.5513698630137,
         "children": [
           {
-            "id": "bc5678134e2fd5ab",
+            "id": "4d92e92fccc11a3c",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Pages/CBT.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.875,
-                  "repelStrength": 3.75,
-                  "linkStrength": 1,
-                  "linkDistance": 172,
-                  "scale": 0.834083304919663,
-                  "close": true
-                }
-              }
+              "type": "BC-matrix",
+              "state": {}
             }
           },
           {
@@ -211,15 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
                 "file": "Pages/CBT.md",
-=======
-<<<<<<< HEAD
-                "file": "Resources/Task Management.md",
-=======
-                "file": "Pages/CBT.md",
->>>>>>> cc8070497cef146e089a93f4f6a8ac4c6ad406e2
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,81 +99,40 @@
             }
           },
           {
-            "id": "4e5f6e823552c70e",
-<<<<<<< Updated upstream
-=======
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pages/CBT.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "e7ea538f891f3a4d",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pages/CBT.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "e7ea538f891f3a4d",
-=======
-<<<<<<< HEAD
-            "id": "6d1c85c192b79afd",
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-<<<<<<< Updated upstream
                 "sortOrder": "frequency",
                 "useHierarchy": true
-=======
-                "file": "Resources/Task Management.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
->>>>>>> Stashed changes
               }
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "420924ad2079e336",
-=======
+            "id": "6d1c85c192b79afd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pages/CBT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "dfd1df37ed9e6dd6",
-=======
-            "id": "420924ad2079e336",
->>>>>>> cc8070497cef146e089a93f4f6a8ac4c6ad406e2
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
                 "file": "Pages/CBT.md"
-=======
-<<<<<<< HEAD
-                "file": "Resources/Task Management.md"
-=======
-                "file": "Pages/CBT.md"
->>>>>>> cc8070497cef146e089a93f4f6a8ac4c6ad406e2
->>>>>>> Stashed changes
               }
             }
           },
           {
-            "id": "1b58f8309245e1d5",
+            "id": "5a84e5783f31ae3d",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -313,75 +140,31 @@
             }
           },
           {
-            "id": "9c1332f35def0b8c",
+            "id": "7bf6039d5c7eaea6",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "d36ef9af28c44922",
-        "type": "tabs",
-        "dimension": 57.4486301369863,
-        "children": [
-          {
-            "id": "4d92e92fccc11a3c",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 323.5
   },
-<<<<<<< Updated upstream
-  "active": "14612e469140d092",
+  "active": "e8c23e6b4c6f8a35",
   "lastOpenFiles": [
-    "Pages/Multiple Composite Scenarios (MCS).md",
-    "Pages/Health Games.md",
-    "Pages/Digital CBT.md",
-    "Pages/Present (2020-2023).md",
     "Pages/Home.md",
-    "Pages/Shared Decision Making (SDM).md",
-=======
-<<<<<<< HEAD
-  "active": "b68694f0fb9388d9",
-  "lastOpenFiles": [
-    "Pages/Therapeutic Alliance.md",
     "Resources/Task Management.md",
+    "Pages/Therapeutic Alliance.md",
     "Pages/CBT.md",
-    "Pages/Home.md",
     "Pages/Psychoanalytical Tradition.md",
     "Pages/Non-Verbal Communication.md",
     "Pages/Apps.md",
     "Pages/Precision Psychiatry.md",
     "Pages/Shared Decision Making (SDM).md",
     "Pages/Rapid Communication.md"
-=======
-  "active": "14612e469140d092",
-  "lastOpenFiles": [
-    "Pages/Multiple Composite Scenarios (MCS).md",
-    "Pages/Health Games.md",
-    "Pages/Digital CBT.md",
-    "Pages/Present (2020-2023).md",
-    "Pages/Home.md",
-    "Pages/Shared Decision Making (SDM).md",
->>>>>>> Stashed changes
-    "Pages/Therapeutic Alliance.md",
-    "Pages/Medical Scribes.md",
-    "Pages/Clinical Decision Support (CDS).md",
-    "Pages/Precision Psychiatry.md"
-<<<<<<< Updated upstream
-=======
->>>>>>> cc8070497cef146e089a93f4f6a8ac4c6ad406e2
->>>>>>> Stashed changes
   ]
 }
