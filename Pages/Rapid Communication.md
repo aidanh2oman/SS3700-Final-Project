@@ -1,6 +1,6 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited/Unresearched
+- Page/Linked/Formatted/Unedited
 creation date : 2022-10-31 11:15 
 ---
 Humans have been developing new forms of communication for a large portion of our time on this planet, and within the last couple hundred years we have made large strides. As of recent, we have been using Rapid Communications such as SMS Messages, Email, Social Media and Video or Phone Calls. 

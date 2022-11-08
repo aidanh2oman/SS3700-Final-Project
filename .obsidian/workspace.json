@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "222bad98f1f6615e",
+    "id": "60d1129ae93beb76",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "538d308b84f70a7e",
+        "id": "4317294b34c7b0b7",
         "type": "tabs",
         "children": [
           {
-            "id": "d6f9bea9c90e4351",
-=======
-        "id": "d43126648ed274ce",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e8c23e6b4c6f8a35",
->>>>>>> f633c8c8b001bfa7afed25813429f01c88fe0b6b
+            "id": "a3f1ce690f8bd130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Resources/Task Management.md",
-=======
-                "file": "Pages/CBT.md",
->>>>>>> f633c8c8b001bfa7afed25813429f01c88fe0b6b
+                "file": "Pages/Deductive Disclosure.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ad35d8af9751b7fd",
+    "id": "2f2b01a67976acab",
     "type": "split",
     "children": [
       {
-        "id": "fbe3eb0e8ade9e4a",
+        "id": "fd502e2922d4094a",
         "type": "tabs",
         "children": [
           {
-            "id": "b1ed40a887940490",
+            "id": "295b2da28c2086ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,16 +43,12 @@
             }
           },
           {
-            "id": "f65991fcc470a54c",
+            "id": "6f19d2e1ae0751fa",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "",
-=======
-                "query": "tag:#TODO",
->>>>>>> f633c8c8b001bfa7afed25813429f01c88fe0b6b
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,41 +57,27 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "28d7e284fc81e215",
+    "id": "6735775bc3dda440",
     "type": "split",
     "children": [
       {
-        "id": "d36ef9af28c44922",
+        "id": "46aab1225672502d",
         "type": "tabs",
         "children": [
           {
-            "id": "4d92e92fccc11a3c",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "796f6276607f9a35",
+            "id": "7848762a2093947d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Resources/Task Management.md",
-=======
-                "file": "Pages/CBT.md",
->>>>>>> f633c8c8b001bfa7afed25813429f01c88fe0b6b
+                "file": "Pages/Deductive Disclosure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +89,19 @@
             }
           },
           {
-            "id": "e7ea538f891f3a4d",
+            "id": "2d36caef23c110c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pages/Deductive Disclosure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "196d410135e3fae4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,37 +112,17 @@
             }
           },
           {
-            "id": "6d1c85c192b79afd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-<<<<<<< HEAD
-                "file": "Resources/Task Management.md",
-=======
-                "file": "Pages/CBT.md",
->>>>>>> f633c8c8b001bfa7afed25813429f01c88fe0b6b
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "dfd1df37ed9e6dd6",
+            "id": "fd5161617ac3972f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Resources/Task Management.md"
-=======
-                "file": "Pages/CBT.md"
->>>>>>> f633c8c8b001bfa7afed25813429f01c88fe0b6b
+                "file": "Pages/Deductive Disclosure.md"
               }
             }
           },
           {
-            "id": "5a84e5783f31ae3d",
+            "id": "fd1089448c836236",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -168,45 +130,39 @@
             }
           },
           {
-            "id": "7bf6039d5c7eaea6",
+            "id": "fe293cf2ff5fd23d",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "bfcc8a38f74d3462",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 300,
+    "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "d6f9bea9c90e4351",
-=======
-  "active": "e8c23e6b4c6f8a35",
->>>>>>> f633c8c8b001bfa7afed25813429f01c88fe0b6b
+  "active": "a3f1ce690f8bd130",
   "lastOpenFiles": [
-    "Pages/Hologram Communication.md",
-    "Pages/Pasted image 20221108114407.png{width=50%}.md",
-    "Pages/Rapid Communication.md",
-    "Pages/AVATAR Therapy.md",
-    "Pages/Home.md",
     "Resources/Task Management.md",
-<<<<<<< HEAD
-    "Pages/Psychoanalytical Tradition.md",
-    "Pages/Virtual and Augmented Reality.md",
-    "Pages/Therapeutic Alliance.md"
-=======
-    "Pages/Therapeutic Alliance.md",
-    "Pages/CBT.md",
-    "Pages/Psychoanalytical Tradition.md",
-    "Pages/Non-Verbal Communication.md",
-    "Pages/Apps.md",
-    "Pages/Precision Psychiatry.md",
+    "Pages/Medication Related Digital Tools.md",
     "Pages/Shared Decision Making (SDM).md",
-    "Pages/Rapid Communication.md"
->>>>>>> f633c8c8b001bfa7afed25813429f01c88fe0b6b
+    "Pages/Hologram Communication.md",
+    "Pages/Rapid Communication.md",
+    "Pages/Home.md",
+    "Pages/Precision Psychiatry.md",
+    "Pages/Present (2020-2023).md",
+    "Pages/Current Digital Technologies.md"
   ]
 }
