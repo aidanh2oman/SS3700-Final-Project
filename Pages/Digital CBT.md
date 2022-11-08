@@ -4,7 +4,7 @@ tags :
 creation date : 2022-10-31 11:28 
 ---
 
-
+One example of Digital CBT is [[Multiple Composite Scenarios (MCS)]]
 
 ---
 ##### Related
@@ -19,7 +19,7 @@ creation date : 2022-10-31 11:28
 ###### Up
 up:: [[Present (2020-2023)]]
 ###### Down
-down:: 
+down:: [[Multiple Composite Scenarios (MCS)]]
 ###### Same
 same:: 
 ###### Next

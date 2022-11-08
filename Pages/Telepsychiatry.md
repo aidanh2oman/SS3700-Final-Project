@@ -5,7 +5,17 @@ creation date : 2022-10-31 11:33
 ---
 
 #ryan 
-on of the first networked digital tools in psychotherapy 
+Telemedicine and telepsychiatry uses technology, which is typically video-based, to provide a range of healthcare services to patients. 
+
+one of the first networked digital tools in psychotherapy 
+
+The use of video-based telepsychiatry helps meet patients' needs for convenient, affordable and readily-accessible mental health services.
+
+robust evidence base that shows telepsychiatry leading to improved outcomes and higher patient satisfaction ratings.
+
+Telepsychiatry has become increasingly popular over the course of the Covid-19 pandemic. 
+
+
 
 
 ```ad-quote
@@ -19,6 +29,10 @@ overall, telepsychiatry is better than nothing.
 [[Better Than Nothing Shifting To Better Than Anything]]
 
 [[Telepsychiatry was Adopted Extremely Fast]]
+
+https://www.psychiatry.org/psychiatrists/practice/telepsychiatry
+
+https://www.medicalnewstoday.com/articles/telepsychiatry#efficacy
 
 ---
 ##### Related

@@ -1,9 +1,9 @@
 ---
-tags : 
+tags :
 - Page/Linked/Formatted/Unedited/Unresearched
-creation date : 2022-10-31 11:08 
+creation date : 2022-11-08 11:37 
 ---
-#ryan 
+
 
 
 ---
@@ -17,7 +17,7 @@ creation date : 2022-10-31 11:08
 ---
 ##### Hierarchy
 ###### Up
-up:: [[Future]]
+up:: 
 ###### Down
 down:: 
 ###### Same
