@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "972c341f5ca51e3e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Pages/Home.md",
-            "mode": "source",
-            "source": false
+        "id": "538d308b84f70a7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f9bea9c90e4351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Task Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -42,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#joseph",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Task Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Task Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Resources/Task Management.md"
               }
             }
           },
@@ -147,17 +153,17 @@
     "direction": "horizontal",
     "width": 323.5
   },
-  "active": "972c341f5ca51e3e",
+  "active": "d6f9bea9c90e4351",
   "lastOpenFiles": [
+    "Pages/Hologram Communication.md",
+    "Pages/Pasted image 20221108114407.png{width=50%}.md",
+    "Pages/Rapid Communication.md",
+    "Pages/AVATAR Therapy.md",
     "Pages/Home.md",
     "Pages/Non-Verbal Communication.md",
     "Resources/Task Management.md",
     "Pages/Psychoanalytical Tradition.md",
-    "Pages/Rapid Communication.md",
-    "Pages/Hologram Communication.md",
-    "Pages/Avatar Therapy.md",
     "Pages/Virtual and Augmented Reality.md",
-    "Pages/Therapeutic Alliance.md",
-    "Pages/Telepsychiatry.md"
+    "Pages/Therapeutic Alliance.md"
   ]
 }
