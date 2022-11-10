@@ -1,6 +1,6 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited/Unresearched
+- Page/Linked/Formatted/Unedited
 creation date : 2022-11-07 09:23 
 ---
 

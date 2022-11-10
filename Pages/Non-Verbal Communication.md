@@ -1,6 +1,6 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited/Unresearched
+- Page/Linked/Formatted
 creation date : 2022-11-07 11:28 
 ---
 
@@ -17,7 +17,7 @@ Non-verbal communication is important in building relationships between the pati
 ---
 ##### Hierarchy
 ###### Up
-up:: [[]]
+up:: 
 ###### Down
 down:: 
 ###### Same

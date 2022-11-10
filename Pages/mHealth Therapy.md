@@ -1,6 +1,6 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited/Unresearched
+- Page/Linked/Formatted/Unedited
 creation date : 2022-10-31 11:27 
 ---
 
@@ -10,6 +10,7 @@ Similar to how [[Telepsychiatry was Adopted Extremely Fast]], [[mHealth Therapy]
 
 [[Just-In-Time Adaptive Interventions (JITAI)]]
 [[Apps for Suicide Prevention]]
+[[Apps]]
 
 ---
 ##### Related

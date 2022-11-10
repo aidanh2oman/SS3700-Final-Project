@@ -16,6 +16,10 @@ important to keep in mind that [[mHealth Therapy]] need to be blended with in-pe
 
 [[Just-In-Time Adaptive Interventions (JITAI)]] sounds interesting but leads to ethical questions relating to equality of users as well as how much understanding the user should have about how they interact with the app
 
+adoption of [[Digital Medicine System (DMS)]] seems like it might be huge for the progression of healthcare
+^^^
+removes the need for the physician to trust the patient
+
 ---
 ##### Related
 
