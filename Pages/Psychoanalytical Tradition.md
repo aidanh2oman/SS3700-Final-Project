@@ -1,6 +1,6 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited/Unresearched
+- Page/Linked/Formatted/Unedited
 creation date : 2022-10-31 10:59 
 ---
 Psychoanalysis is when people explore their unconscious thoughts to better understand themselves.

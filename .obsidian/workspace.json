@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Rapid Communication.md",
+                "file": "Resources/Task Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Task Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Resources/Task Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "Resources/Task Management.md"
               }
             }
           },
@@ -166,17 +165,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eb7e7ee2cbdce902",
+  "active": "1761223d172c9068",
   "lastOpenFiles": [
-    "Pages/Rapid Communication.md",
-    "Pages/Home.md",
+    "Pages/Digital Cognitive Behavioral Therapy (C-CBT and I-CBT).md",
     "Resources/Task Management.md",
-    "Pages/Apps.md",
-    "Pages/Resources.md",
-    "Pages/Future.md",
-    "Pages/Offline Digital Tools.md",
-    "Pages/Multiple Composite Scenarios (MCS).md",
-    "Pages/Current Digital Technologies.md",
-    "Pages/Medication Related Digital Tools.md"
+    "Pages/COVID Progression.md",
+    "Pages/Health Games.md",
+    "Pages/Medication Related Digital Tools.md",
+    "Pages/Proposed Digital Technologies.md",
+    "Pages/Virtual and Augmented Reality.md",
+    "Pages/Therapeutic Alliance.md",
+    "Pages/Shared Decision Making (SDM).md",
+    "Pages/Offline Digital Tools.md"
   ]
 }
