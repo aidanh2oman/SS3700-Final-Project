@@ -1,15 +1,15 @@
+
 [[Task Management]]
 
 [[Templates]]
-[[Style Guides]]
-[[Plugins]]
 
 ---
 ##### Hierarchy
 ###### Up
 up:: [[Home]]
 ###### Down
-down:: 
+down:: [[Task Management]]
+down:: [[Templates]]
 ###### Same
 same:: 
 ###### Next

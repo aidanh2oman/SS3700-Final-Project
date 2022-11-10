@@ -1,10 +1,8 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited
+- Page/Linked/Formatted
 creation date : 2022-10-31 11:28 
 ---
-
-#TODO Write overview for CBT
 
 CBT (cognitive behavioral therapy) is a common form of therapy used today to treat many mental illnesses the most common of which are anxiety and depression. It has been extensively researched and shown to be an effective form of treatment. In mild and moderate depression and anxiety in most cases CBT alone can improve symptoms dramatically without medication. This therapy centers around exploring thoughts to learn how to reframe thoughts and change behaviors. During therapy patients can participate in exposure therapy cognitive an behavioral exercises and are often expected to do homework and participate actively in therapy.
 
@@ -12,11 +10,6 @@ CBT (cognitive behavioral therapy) is a common form of therapy used today to tre
 ^^^
 [[Mental Health Risk Factors]]
 
-
-<<<<<<< Updated upstream
-=======
->>>>>>> cc8070497cef146e089a93f4f6a8ac4c6ad406e2
->>>>>>> Stashed changes
 ---
 ##### Related
 [[Digital CBT]]

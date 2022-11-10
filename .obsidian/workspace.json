@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b251c36a3316fd7",
+        "id": "75c25dc89e518bd3",
         "type": "tabs",
         "children": [
           {
-            "id": "1761223d172c9068",
+            "id": "4d9e09ede67f1b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "eb7e7ee2cbdce902",
+            "id": "fb264df1c12c2a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,23 +94,6 @@
             }
           },
           {
-            "id": "7848762a2093947d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Resources/Task Management.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "2d36caef23c110c6",
             "type": "leaf",
             "state": {
@@ -160,22 +143,45 @@
             }
           }
         ]
+      },
+      {
+        "id": "25db46d89f20a5a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7848762a2093947d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources/Task Management.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1761223d172c9068",
+  "active": "4d9e09ede67f1b42",
   "lastOpenFiles": [
-    "Pages/Digital Cognitive Behavioral Therapy (C-CBT and I-CBT).md",
+    "Pages/Telepsychiatry.md",
     "Resources/Task Management.md",
-    "Pages/COVID Progression.md",
-    "Pages/Health Games.md",
-    "Pages/Medication Related Digital Tools.md",
-    "Pages/Proposed Digital Technologies.md",
-    "Pages/Virtual and Augmented Reality.md",
-    "Pages/Therapeutic Alliance.md",
-    "Pages/Shared Decision Making (SDM).md",
-    "Pages/Offline Digital Tools.md"
+    "Pages/Offline Digital Tools.md",
+    "Pages/Non-Verbal Communication.md",
+    "Pages/Hologram Communication.md",
+    "Pages/Digital Medicine System (DMS).md",
+    "Pages/Digital Cognitive Behavioral Therapy (C-CBT and I-CBT).md",
+    "Pages/Deductive Disclosure.md",
+    "Pages/Current Digital Technologies.md",
+    "Pages/Cognitive Behavioral Therapy (CBT).md"
   ]
 }

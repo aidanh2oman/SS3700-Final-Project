@@ -10,6 +10,7 @@ Similar to how [[Telepsychiatry was Adopted Extremely Fast]], [[mHealth Therapy]
 
 [[Just-In-Time Adaptive Interventions (JITAI)]]
 [[Apps for Suicide Prevention]]
+[[Apps]]
 
 ---
 ##### Related
