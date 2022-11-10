@@ -12,7 +12,9 @@ mention [[Proposed Digital Technologies]]
 
 A big concern moving forward with new technologies is the risk of [[Deductive Disclosure]]
 
+important to keep in mind that [[mHealth Therapy]] need to be blended with in-person treatment
 
+[[Just-In-Time Adaptive Interventions (JITAI)]] sounds interesting but leads to ethical questions relating to equality of users as well as how much understanding the user should have about how they interact with the app
 
 ---
 ##### Related

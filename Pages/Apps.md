@@ -17,7 +17,7 @@ Apps are used to improve mental health in many areas from exercise, to journalin
 ---
 ##### Hierarchy
 ###### Up
-up:: 
+up:: [[Current Digital Technologies]]
 ###### Down
 down:: [[Apps for Suicide Prevention]]
 ###### Same

@@ -18,21 +18,26 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5700f06f8673bccf",
+        "type": "tabs",
+        "children": [
           {
             "id": "8fee5f41ce843ae8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Current Digital Technologies.md",
+                "file": "Pages/Apps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Current Digital Technologies.md",
+                "file": "Pages/Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Current Digital Technologies.md",
+                "file": "Pages/Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Current Digital Technologies.md"
+                "file": "Pages/Apps.md"
               }
             }
           },
@@ -159,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -167,15 +173,15 @@
   },
   "active": "8fee5f41ce843ae8",
   "lastOpenFiles": [
-    "Pages/History (2000-2020).md",
-    "Pages/Current Digital Technologies.md",
-    "Pages/Medication Related Digital Tools.md",
-    "Pages/Digital Medicine System (DMS).md",
-    "Pages/COVID Progression.md",
-    "Pages/Telepsychiatry.md",
-    "Pages/Offline Digital Tools.md",
-    "Pages/Better Than Nothing Shifting To Better Than Anything.md",
+    "Pages/Apps for Suicide Prevention.md",
+    "Pages/mHealth Therapy.md",
+    "Pages/Just-In-Time Adaptive Interventions (JITAI).md",
+    "Pages/Future.md",
+    "Pages/Present (2020-2023).md",
+    "Pages/Balance Between In Person and Digital Interaction.md",
     "Pages/Home.md",
-    "Pages/Non-Verbal Communication.md"
+    "Pages/Multiple Composite Scenarios (MCS).md",
+    "Pages/History (2000-2020).md",
+    "Pages/Current Digital Technologies.md"
   ]
 }

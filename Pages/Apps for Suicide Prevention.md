@@ -19,7 +19,7 @@ creation date : 2022-11-07 09:23
 ---
 ##### Hierarchy
 ###### Up
-up:: [[Current Digital Technologies]]
+up:: [[Apps]]
 ###### Down
 down:: 
 ###### Same
