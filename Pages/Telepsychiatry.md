@@ -3,8 +3,8 @@ tags :
 - Page/Linked/Formatted/Unedited
 creation date : 2022-10-31 11:33 
 ---
-
 #ryan 
+
 Telemedicine and telepsychiatry uses technology, which is typically video-based, to provide a range of healthcare services to patients. 
 
 one of the first networked digital tools in psychotherapy 
