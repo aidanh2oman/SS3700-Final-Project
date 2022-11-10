@@ -17,7 +17,7 @@ One example of Digital CBT is [[Multiple Composite Scenarios (MCS)]]
 ---
 ##### Hierarchy
 ###### Up
-up:: [[Present (2020-2023)]]
+up:: [[Current Digital Technologies]], [[CBT]]
 ###### Down
 down:: [[Multiple Composite Scenarios (MCS)]]
 ###### Same

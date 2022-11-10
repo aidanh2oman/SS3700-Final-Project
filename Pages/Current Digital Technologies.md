@@ -25,7 +25,7 @@ up:: [[Present (2020-2023)]]
 ###### Down
 down:: 
 ###### Same
-same:: 
+same:: [[Proposed Digital Technologies]]
 ###### Next
 next:: 
 ###### Previous
