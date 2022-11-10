@@ -1,6 +1,6 @@
 ---
 tags : 
-- Page/Linked/Formatted/Unedited/Unresearched
+- Page/Linked/Formatted/Unedited
 creation date : 2022-10-31 11:31 
 ---
 #ryan 
@@ -30,6 +30,9 @@ https://psychnews.psychiatryonline.org/doi/10.1176/appi.pn.2022.09.9.23
 ##### Hierarchy
 ###### Up
 up:: [[Current Digital Technologies]]
+up:: [[Proposed Digital Technologies]]
+
+
 ###### Down
 down:: 
 ###### Same
