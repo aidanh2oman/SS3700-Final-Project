@@ -1,39 +1,60 @@
 {
   "main": {
-    "id": "222bad98f1f6615e",
+    "id": "60d1129ae93beb76",
     "type": "split",
     "children": [
       {
-        "id": "bd5c7ed22d8a3647",
+        "id": "3c6231734adc9b38",
         "type": "tabs",
         "children": [
           {
-            "id": "642e564b04ec184e",
+            "id": "625a16f170fe0569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Pages/Shared Decision Making (SDM).md",
+=======
+<<<<<<< HEAD
+                "file": "Pages/Precision Psychiatry.md",
+=======
+                "file": "Pages/Digital CBT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b33e2fc48e2b48d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/Avatar Therapy.md",
+>>>>>>> 4697019f5b8290bbe6cb877ac8a419a3e8c846f3
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ad35d8af9751b7fd",
+    "id": "2f2b01a67976acab",
     "type": "split",
     "children": [
       {
-        "id": "fbe3eb0e8ade9e4a",
+        "id": "fd502e2922d4094a",
         "type": "tabs",
         "children": [
           {
-            "id": "b1ed40a887940490",
+            "id": "295b2da28c2086ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +64,12 @@
             }
           },
           {
-            "id": "f65991fcc470a54c",
+            "id": "6f19d2e1ae0751fa",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ryan",
+                "query": "tag:#aidan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,31 +83,39 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< Updated upstream
     "width": 200
+=======
+<<<<<<< HEAD
+    "width": 200
+=======
+    "width": 300
+>>>>>>> 4697019f5b8290bbe6cb877ac8a419a3e8c846f3
+>>>>>>> Stashed changes
   },
   "right": {
-    "id": "28d7e284fc81e215",
+    "id": "6735775bc3dda440",
     "type": "split",
     "children": [
       {
-        "id": "d36ef9af28c44922",
+        "id": "46aab1225672502d",
         "type": "tabs",
         "children": [
           {
-            "id": "4d92e92fccc11a3c",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "796f6276607f9a35",
+            "id": "7848762a2093947d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Pages/Shared Decision Making (SDM).md",
+=======
+<<<<<<< HEAD
+                "file": "Pages/Precision Psychiatry.md",
+=======
+                "file": "Pages/Avatar Therapy.md",
+>>>>>>> 4697019f5b8290bbe6cb877ac8a419a3e8c846f3
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +127,19 @@
             }
           },
           {
-            "id": "e7ea538f891f3a4d",
+            "id": "2d36caef23c110c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pages/Avatar Therapy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "196d410135e3fae4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -109,12 +150,17 @@
             }
           },
           {
-            "id": "6d1c85c192b79afd",
+            "id": "bfcc8a38f74d3462",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Pages/Shared Decision Making (SDM).md",
+=======
+                "file": "Pages/Precision Psychiatry.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +172,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Pages/Shared Decision Making (SDM).md"
+=======
+                "file": "Pages/Precision Psychiatry.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -143,6 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "juggl_style",
+=======
+              "type": "BC-matrix",
+>>>>>>> 4697019f5b8290bbe6cb877ac8a419a3e8c846f3
               "state": {}
             }
           }
@@ -151,19 +204,47 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< Updated upstream
     "width": 200
+=======
+<<<<<<< HEAD
+    "width": 200
+=======
+    "width": 300
+>>>>>>> 4697019f5b8290bbe6cb877ac8a419a3e8c846f3
+>>>>>>> Stashed changes
   },
-  "active": "642e564b04ec184e",
+  "active": "b33e2fc48e2b48d2",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Pages/Precision Psychiatry.md",
     "Pages/Proposed Digital Technologies.md",
     "Pages/Shared Decision Making (SDM).md",
     "Resources/Task Management.md",
+=======
+<<<<<<< HEAD
+    "Pages/Proposed Digital Technologies.md",
+    "Pages/Shared Decision Making (SDM).md",
+    "Resources/Task Management.md",
+    "Pages/Precision Psychiatry.md",
+>>>>>>> Stashed changes
     "Pages/Rapid Communication.md",
     "Pages/Psychoanalytical Tradition.md",
     "Pages/Virtual and Augmented Reality.md",
     "Pages/Therapeutic Alliance.md",
     "Pages/Telepsychiatry.md",
     "Pages/Home.md"
+=======
+    "Pages/Avatar Therapy.md",
+    "Pages/Home.md",
+    "Pages/References.md",
+    "Pages/Future.md",
+    "Pages/Present (2020-2023).md",
+    "Pages/History (2000-2020).md",
+    "Pages/Non-Verbal Communication.md",
+    "Pages/Apps.md",
+    "Pages/Multiple Composite Scenarios (MCS).md",
+    "Pages/Digital CBT.md"
+>>>>>>> 4697019f5b8290bbe6cb877ac8a419a3e8c846f3
   ]
 }
