@@ -3,7 +3,7 @@ tags :
 - Page/Linked/Formatted/Unedited
 creation date : 2022-11-07 09:22 
 ---
-
+#aidan 
 > [!quote] Psychiatry in the Digital Age
 > “Cognitive behavioral therapy (CBT) delivered via computer (C-CBT, typically through CD-ROM) and CBT provided via the internet on a computer or mobile device (I-CBT) represent an avenue that shows the potential of digitalization in psychiatry. For instance, they can be used to treat depressive disorders, bipolar disorders, generalized anxiety disorders, panic disorders, social anxiety disorders, phobias, obsessive–compulsive disorders, post-traumatic stress disorders, and adjustment disorders”
 

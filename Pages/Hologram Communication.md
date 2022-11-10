@@ -23,7 +23,8 @@ Like you're talking to someone through a window, instead of through video chat.
 ---
 ##### Hierarchy
 ###### Up
-up:: [[Current Digital Technologies]]
+up:: [[Proposed Digital Technologies]]
+
 ###### Down
 down:: 
 ###### Same

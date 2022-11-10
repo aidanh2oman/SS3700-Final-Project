@@ -3,11 +3,8 @@ tags :
 - Page/Linked/Formatted/Unedited
 creation date : 2022-10-31 11:15 
 ---
-#ryan 
-<<<<<<< HEAD
-[[AVATAR Therapy]]
-=======
->>>>>>> f633c8c8b001bfa7afed25813429f01c88fe0b6b
+#ryan  mention related
+
 
 
 
@@ -28,6 +25,8 @@ https://positivepsychology.com/virtual-reality-therapy/
 ##### Related
 
 [[Avatar Therapy]]
+[[Apps]]
+
 
 ---
 ##### References
@@ -36,7 +35,9 @@ https://positivepsychology.com/virtual-reality-therapy/
 ---
 ##### Hierarchy
 ###### Up
-up:: 
+up:: [[Current Digital Technologies]]
+up:: [[Proposed Digital Technologies]]
+
 ###### Down
 down:: 
 ###### Same

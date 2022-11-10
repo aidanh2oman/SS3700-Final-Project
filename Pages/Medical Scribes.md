@@ -3,6 +3,7 @@ tags :
 - Page/Linked/Formatted/Unedited
 creation date : 2022-11-07 09:24 
 ---
+#aidan 
 
 medical scribes are now being used, this newly created job consists of an assistant that does all of the entering of information into the computer so the doctor can focus on the patient
 ^^^

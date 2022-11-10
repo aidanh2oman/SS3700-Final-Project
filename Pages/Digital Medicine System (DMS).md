@@ -17,7 +17,8 @@ creation date : 2022-11-07 09:23
 ---
 ##### Hierarchy
 ###### Up
-up:: [[Medication Related Digital Tools]]
+up:: [[Current Digital Technologies]]
+
 ###### Down
 down:: 
 ###### Same

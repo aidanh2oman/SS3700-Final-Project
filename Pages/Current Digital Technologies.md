@@ -8,7 +8,8 @@ examples of ways that digital tools are being used in psychotherapy today, this 
 
 The use of the internet (networked technologies) has led to the development of many tools such as [[Rapid Communication]] and [[Virtual and Augmented Reality]]. Regardless, there are still plenty of [[Offline Digital Tools]] impacting patient-physician relations in the present moment.
 
-[[Medication Related Digital Tools]]
+[[Digital Medicine System (DMS)]]
+
 
 ---
 ##### Related

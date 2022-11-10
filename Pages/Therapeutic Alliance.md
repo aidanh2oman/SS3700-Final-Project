@@ -23,6 +23,7 @@ tasks are the activities carried out by both client and therapist
 https://dictionary.apa.org/therapeutic-alliance
 ---
 ##### Related
+[[Non-Verbal Communication]]
 
 
 ---

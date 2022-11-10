@@ -26,7 +26,8 @@ If you are looking for an overview of the research we did, you should start in [
 If you want to see where the research has led us, start at [[Future]], there you can find our reflections, concerns, and recommendations
 
 ## Friday Presentation
-start with [[History (2000-2020)]] and move into [[Telepsychiatry]]. Show [[Present (2020-2023)]] and then move into [[Future]] to explain key findings.
+start with [[History (2000-2020)]] and move into [[Telepsychiatry]]. Show [[Present (2020-2023)]] ->[[Current Digital Technologies]]->[[Proposed Digital Technologies]]-> [[Future]] to explain key findings.
+
 
 ## Tagging
 remove unresearched from pages when we have some good information collected on that page, does not have to be in a coherent statement yet
