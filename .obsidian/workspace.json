@@ -74,6 +74,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "bfcc8a38f74d3462",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
             "id": "7848762a2093947d",
             "type": "leaf",
             "state": {
@@ -86,7 +94,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -98,7 +106,7 @@
               "state": {
                 "file": "Pages/Home.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -111,14 +119,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "bfcc8a38f74d3462",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
             }
           },
           {
@@ -147,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,15 +155,15 @@
   },
   "active": "1761223d172c9068",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Pages/Present (2020-2023).md",
+    "Pages/Current Digital Technologies.md",
     "Pages/Home.md",
     "Pages/Future.md",
-    "Pages/Therapeutic Alliance.md",
-    "Pages/Virtual and Augmented Reality.md",
     "Pages/Telepsychiatry.md",
-    "Pages/Shared Decision Making (SDM).md",
-    "Pages/Proposed Digital Technologies.md",
-    "Pages/Precision Psychiatry.md",
-    "Pages/Deductive Disclosure.md"
+    "Pages/History (2000-2020).md",
+    "Pages/Therapeutic Alliance.md",
+    "conflict-files-obsidian-git.md",
+    "Pages/Virtual and Augmented Reality.md",
+    "Pages/Shared Decision Making (SDM).md"
   ]
 }

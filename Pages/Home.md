@@ -11,7 +11,7 @@ patient-physician relations in psychotherapy can fall on a spectrum from no rela
 
 psychotherapy in a digital society consists of traditional psychotherapy that has been developing for quite a long time and new digital technologies. The option to use or reject these technologies arguably complicates the patient-physician relationship but there is room for new possibilities if these technologies are accepted.
 
-## Abstract
+## Project Description and Abstract
 #TODO abstract
 
 [[History (2000-2020)]] provides an overview of the research we conducted that explains our topic before the impact of COVID-19
@@ -24,6 +24,9 @@ psychotherapy in a digital society consists of traditional psychotherapy that ha
 If you are looking for an overview of the research we did, you should start in [[History (2000-2020)]] and [[Present (2020-2023)]]
 
 If you want to see where the research has led us, start at [[Future]], there you can find our reflections, concerns, and recommendations
+
+## Friday Presentation
+start with [[History (2000-2020)]] and move into [[Telepsychiatry]]. Show [[Present (2020-2023)]] and then move into [[Future]] to explain key findings.
 
 ## Timeline
 [[History (2000-2020)]]
