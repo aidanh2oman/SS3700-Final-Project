@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/Avatar Therapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#aidan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,12 +70,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6735775bc3dda440",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/Avatar Therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "Pages/Avatar Therapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,32 +126,6 @@
             }
           },
           {
-            "id": "fd5161617ac3972f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pages/Home.md"
-              }
-            }
-          },
-          {
-            "id": "fd1089448c836236",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe293cf2ff5fd23d",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
-          },
-          {
             "id": "bfcc8a38f74d3462",
             "type": "leaf",
             "state": {
@@ -160,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,15 +142,15 @@
   },
   "active": "b33e2fc48e2b48d2",
   "lastOpenFiles": [
-    "Pages/Future.md",
+    "Pages/Avatar Therapy.md",
     "Pages/Home.md",
+    "Pages/References.md",
+    "Pages/Future.md",
     "Pages/Present (2020-2023).md",
     "Pages/History (2000-2020).md",
     "Pages/Non-Verbal Communication.md",
     "Pages/Apps.md",
     "Pages/Multiple Composite Scenarios (MCS).md",
-    "Pages/Digital CBT.md",
-    "Pages/Just-In-Time Adaptive Interventions (JITAI).md",
-    "Pages/Current Digital Technologies.md"
+    "Pages/Digital CBT.md"
   ]
 }
