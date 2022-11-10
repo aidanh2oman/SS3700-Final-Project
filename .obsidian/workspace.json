@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebae69ad25215abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -154,10 +167,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1761223d172c9068",
+  "active": "ebae69ad25215abe",
   "lastOpenFiles": [
-    "Pages/Future.md",
     "Pages/Home.md",
+    "Pages/Future.md",
     "Pages/Therapeutic Alliance.md",
     "Pages/Virtual and Augmented Reality.md",
     "Pages/Telepsychiatry.md",
