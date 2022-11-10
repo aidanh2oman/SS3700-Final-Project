@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4317294b34c7b0b7",
+        "id": "3c6231734adc9b38",
         "type": "tabs",
         "children": [
           {
-            "id": "a3f1ce690f8bd130",
+            "id": "625a16f170fe0569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Deductive Disclosure.md",
+                "file": "Pages/Future.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fee5f41ce843ae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/Current Digital Technologies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6735775bc3dda440",
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Deductive Disclosure.md",
+                "file": "Pages/Current Digital Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Deductive Disclosure.md",
+                "file": "Pages/Current Digital Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Deductive Disclosure.md"
+                "file": "Pages/Current Digital Technologies.md"
               }
             }
           },
@@ -145,24 +159,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "a3f1ce690f8bd130",
+  "active": "8fee5f41ce843ae8",
   "lastOpenFiles": [
-    "Resources/Task Management.md",
+    "Pages/History (2000-2020).md",
+    "Pages/Current Digital Technologies.md",
     "Pages/Medication Related Digital Tools.md",
-    "Pages/Shared Decision Making (SDM).md",
-    "Pages/Hologram Communication.md",
-    "Pages/Rapid Communication.md",
+    "Pages/Digital Medicine System (DMS).md",
+    "Pages/COVID Progression.md",
+    "Pages/Telepsychiatry.md",
+    "Pages/Offline Digital Tools.md",
+    "Pages/Better Than Nothing Shifting To Better Than Anything.md",
     "Pages/Home.md",
-    "Pages/Precision Psychiatry.md",
-    "Pages/Present (2020-2023).md",
-    "Pages/Current Digital Technologies.md"
+    "Pages/Non-Verbal Communication.md"
   ]
 }

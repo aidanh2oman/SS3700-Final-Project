@@ -4,6 +4,8 @@ tags :
 creation date : 2022-11-08 11:35 
 ---
 
+**A thorough analysis of this might be out of scope**
+
 Multiple Composite Scenarios (MCS) is a framework for [[Health Games]] that has shown efficacy in the prevention of anorexia. 
 
 “In summary, the narrative of the game presents cautionary tales of how cognitive processes may be affected by risk factors, the consequences produced by cognitive biases, and ways to address them.” ([pdf](zotero://open-pdf/library/items/V7EQ44H3?page=7&annotation=JUJKPAB2))
@@ -46,7 +48,7 @@ Multiple Composite Scenarios (MCS) is a framework for [[Health Games]] that has 
 ---
 ##### Hierarchy
 ###### Up
-up:: 
+up:: [[Current Digital Technologies]]
 ###### Down
 down:: 
 ###### Same

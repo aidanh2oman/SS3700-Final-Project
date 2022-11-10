@@ -15,18 +15,11 @@ robust evidence base that shows telepsychiatry leading to improved outcomes and 
 
 Telepsychiatry has become increasingly popular over the course of the Covid-19 pandemic. 
 
+> [!quote] [[Carl Roth - Psychiatry in the Digital Age]]
+> “Telepsychiatry by phone or videoconferencing can help overcome barriers to treatment, such as living in a remote or underserved area, lack of transportation, occupational or social constraints, psychological impairment, physical disability, concerns due to the potential stigma of walking into the office of a psychologist or psychiatrist, and financial difficulties”
 
-
-
-```ad-quote
-“Telepsychiatry by phone or videoconferencing can help overcome barriers to treatment, such as living in a remote or underserved area, lack of transportation, occupational or social constraints, psychological impairment, physical disability, concerns due to the potential stigma of walking into the office of a psychologist or psychiatrist, and financial difficulties”
----
-[[Carl Roth - Psychiatry in the Digital Age]]
-```
 
 overall, telepsychiatry is better than nothing.
-^^^
-[[Better Than Nothing Shifting To Better Than Anything]]
 
 [[Telepsychiatry was Adopted Extremely Fast]]
 
