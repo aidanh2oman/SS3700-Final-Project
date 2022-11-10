@@ -10,6 +10,8 @@ what is the best way to explain the difference between offline tools and network
 
 are there any offline digital tools that were used in the past but went out of fashion
 
+[[Multiple Composite Scenarios (MCS)]]
+
 ---
 ##### Related
 
