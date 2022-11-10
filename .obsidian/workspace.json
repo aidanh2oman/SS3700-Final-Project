@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "60d1129ae93beb76",
+    "id": "222bad98f1f6615e",
     "type": "split",
     "children": [
       {
-        "id": "3c6231734adc9b38",
+        "id": "bd5c7ed22d8a3647",
         "type": "tabs",
         "children": [
           {
-            "id": "625a16f170fe0569",
+            "id": "642e564b04ec184e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Digital CBT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b33e2fc48e2b48d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Avatar Therapy.md",
+                "file": "Pages/Shared Decision Making (SDM).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2f2b01a67976acab",
+    "id": "ad35d8af9751b7fd",
     "type": "split",
     "children": [
       {
-        "id": "fd502e2922d4094a",
+        "id": "fbe3eb0e8ade9e4a",
         "type": "tabs",
         "children": [
           {
-            "id": "295b2da28c2086ea",
+            "id": "b1ed40a887940490",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +43,12 @@
             }
           },
           {
-            "id": "6f19d2e1ae0751fa",
+            "id": "f65991fcc470a54c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#aidan",
+                "query": "tag:#ryan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,23 +62,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "6735775bc3dda440",
+    "id": "28d7e284fc81e215",
     "type": "split",
     "children": [
       {
-        "id": "46aab1225672502d",
+        "id": "d36ef9af28c44922",
         "type": "tabs",
         "children": [
           {
-            "id": "7848762a2093947d",
+            "id": "4d92e92fccc11a3c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "796f6276607f9a35",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Avatar Therapy.md",
+                "file": "Pages/Shared Decision Making (SDM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +98,7 @@
             }
           },
           {
-            "id": "2d36caef23c110c6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pages/Avatar Therapy.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "196d410135e3fae4",
+            "id": "e7ea538f891f3a4d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,10 +109,40 @@
             }
           },
           {
-            "id": "bfcc8a38f74d3462",
+            "id": "6d1c85c192b79afd",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pages/Shared Decision Making (SDM).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfd1df37ed9e6dd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pages/Shared Decision Making (SDM).md"
+              }
+            }
+          },
+          {
+            "id": "5a84e5783f31ae3d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "7bf6039d5c7eaea6",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
               "state": {}
             }
           }
@@ -138,19 +151,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
-  "active": "b33e2fc48e2b48d2",
+  "active": "642e564b04ec184e",
   "lastOpenFiles": [
-    "Pages/Avatar Therapy.md",
-    "Pages/Home.md",
-    "Pages/References.md",
-    "Pages/Future.md",
-    "Pages/Present (2020-2023).md",
-    "Pages/History (2000-2020).md",
-    "Pages/Non-Verbal Communication.md",
-    "Pages/Apps.md",
-    "Pages/Multiple Composite Scenarios (MCS).md",
-    "Pages/Digital CBT.md"
+    "Pages/Precision Psychiatry.md",
+    "Pages/Proposed Digital Technologies.md",
+    "Pages/Shared Decision Making (SDM).md",
+    "Resources/Task Management.md",
+    "Pages/Rapid Communication.md",
+    "Pages/Psychoanalytical Tradition.md",
+    "Pages/Virtual and Augmented Reality.md",
+    "Pages/Therapeutic Alliance.md",
+    "Pages/Telepsychiatry.md",
+    "Pages/Home.md"
   ]
 }
