@@ -28,6 +28,15 @@ If you want to see where the research has led us, start at [[Future]], there you
 ## Friday Presentation
 start with [[History (2000-2020)]] and move into [[Telepsychiatry]]. Show [[Present (2020-2023)]] and then move into [[Future]] to explain key findings.
 
+## Tagging
+remove unresearched from pages when we have some good information collected on that page, does not have to be in a coherent statement yet
+
+remove unedited once information is written into a coherent paragraph or series of statements
+
+remove formatted once images, references, and other links are collected on the page and made to look nice
+
+remove linked once the page is properly placed in the hierarchy.
+
 ## Timeline
 [[History (2000-2020)]]
 [[Present (2020-2023)]]
