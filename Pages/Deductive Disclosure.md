@@ -1,6 +1,6 @@
 ---
 tags :
-- Page/
+- Page
 creation date : 2022-11-07 09:23 
 ---
 #joseph #aidan 
