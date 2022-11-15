@@ -1,6 +1,6 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited
+- Page/
 creation date : 2022-11-07 09:22 
 ---
 
@@ -27,6 +27,7 @@ Roth, Carl B., Andreas Papassotiropoulos, Annette B. Brühl, Undine E. Lang, and
 ##### Hierarchy
 ###### Up
 up:: [[Present (2020-2023)]]
+up:: [[Current Digital Technologies]]
 ###### Down
 down:: [[Multiple Composite Scenarios (MCS)]]
 ###### Same

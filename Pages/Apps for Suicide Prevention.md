@@ -1,6 +1,14 @@
 ---
 tags :
+<<<<<<< Updated upstream
 - Page/Linked
+=======
+<<<<<<< HEAD
+- Page/
+=======
+- Page/Linked
+>>>>>>> d692f7b29c6f3474dc776ac4792c153510d6b1aa
+>>>>>>> Stashed changes
 creation date : 2022-11-07 09:23 
 ---
 
@@ -19,7 +27,16 @@ Roth, Carl B., Andreas Papassotiropoulos, Annette B. Brühl, Undine E. Lang, and
 ---
 ##### Hierarchy
 ###### Up
+<<<<<<< Updated upstream
 up:: [[mHealth]]
+=======
+<<<<<<< HEAD
+up:: [[Apps]]
+
+=======
+up:: [[mHealth]]
+>>>>>>> d692f7b29c6f3474dc776ac4792c153510d6b1aa
+>>>>>>> Stashed changes
 ###### Down
 down:: 
 ###### Same
