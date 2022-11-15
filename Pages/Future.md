@@ -4,7 +4,7 @@ tags :
 creation date : 2022-10-24 12:21 
 ---
 
-mention [[Proposed Digital Technologies]]
+[[Proposed Digital Technologies]]
 
 #TODO Recommendations and concerns, our own ideas and reflections, different from unbiased info on history and present.
 

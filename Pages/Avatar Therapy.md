@@ -1,6 +1,6 @@
 ---
 tags :
-- Page/Linked/Formatted
+- Page/
 creation date : 2022-10-31 11:13 
 ---
 
@@ -8,7 +8,10 @@ Invented by Julian Leff in 2008, 'AVATAR Therapy' is a computer based treatment 
 
 'AVATAR Therapy' is normally run in 6 weekly sessions, roughly thirty minutes each. The patient gets a recording of each session as well. More recently virtual reality has been used to enhance this further. 
 
-"In a randomized controlled trial of AVATAR therapy, Craig et al. found a large effect size in reducing the severity of persistent auditory verbal hallucinations”.
+> [!quote] 
+> "In a randomized controlled trial of AVATAR therapy, Craig et al. found a large effect size in reducing the severity of persistent auditory verbal hallucinations”.
+
+
 
 ---
 ##### Related

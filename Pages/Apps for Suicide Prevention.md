@@ -27,16 +27,8 @@ Roth, Carl B., Andreas Papassotiropoulos, Annette B. Brühl, Undine E. Lang, and
 ---
 ##### Hierarchy
 ###### Up
-<<<<<<< Updated upstream
 up:: [[mHealth]]
-=======
-<<<<<<< HEAD
-up:: [[Apps]]
-
-=======
-up:: [[mHealth]]
->>>>>>> d692f7b29c6f3474dc776ac4792c153510d6b1aa
->>>>>>> Stashed changes
+up:: [[Current Digital Technologies]]
 ###### Down
 down:: 
 ###### Same
