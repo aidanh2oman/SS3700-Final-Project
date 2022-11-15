@@ -25,7 +25,7 @@ https://positivepsychology.com/virtual-reality-therapy/
 ##### Related
 
 [[Avatar Therapy]]
-[[Apps]]
+[[mHealth]]
 
 
 ---

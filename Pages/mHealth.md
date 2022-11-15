@@ -11,8 +11,7 @@ Mention related in text
 
 ---
 ##### Related
-[[Apps for Suicide Prevention]]
-[[mHealth Therapy]]
+
 
 ---
 ##### References
@@ -24,6 +23,7 @@ Mention related in text
 up:: [[Current Digital Technologies]]
 ###### Down
 down:: [[Apps for Suicide Prevention]]
+down:: [[mHealth Therapy]]
 ###### Same
 same:: 
 ###### Next
