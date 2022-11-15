@@ -1,6 +1,6 @@
 ---
 tags :
-- Page/Linked/Formatted
+- Page
 creation date : 2022-11-07 11:28 
 ---
 
@@ -8,7 +8,7 @@ Non-verbal communication is important in building relationships between the pati
 
 ---
 ##### Related
-
+[[Therapeutic Alliance]]
 [[Balance Between In Person and Digital Interaction]]
 
 ---
@@ -18,7 +18,8 @@ Non-verbal communication is important in building relationships between the pati
 ---
 ##### Hierarchy
 ###### Up
-up:: 
+up:: [[History (2000-2020)]]
+up:: [[Present (2020-2023)]]
 ###### Down
 down:: 
 ###### Same
