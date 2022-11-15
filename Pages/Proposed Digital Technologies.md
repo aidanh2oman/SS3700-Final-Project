@@ -1,12 +1,12 @@
 ---
 tags : 
-- Page/Linked/Formatted/Unedited/Unresearched
+- Page/Linked/Formatted/Unedited
 creation date : 2022-10-31 11:08 
 ---
-#ryan 
 
 [[Hologram Communication]]
-
+[[Precision Psychiatry]]
+[[Virtual and Augmented Reality]]
 
 ---
 ##### Related
@@ -27,4 +27,4 @@ same::
 ###### Next
 next:: 
 ###### Previous
-prev:: 
+prev:: [[Current Digital Technologies]]

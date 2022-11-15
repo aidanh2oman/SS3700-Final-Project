@@ -1,18 +1,18 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited
+- Page
 creation date : 2022-10-31 10:59 
 ---
+
 Psychoanalysis is when people explore their unconscious thoughts to better understand themselves.
 
 The psychoanalytical tradition started with Freud's theories and was used in psychoanalytic therapy but as science has disproved Freud's theories it is no longer used.
 
 Today it is used clinically in conjunction with neuroscience to explore dreams and repression.
-[[Cognitive Behavioral Therapy (CBT)]]
 
 ---
 ##### Related
-
+[[Cognitive Behavioral Therapy (CBT)]]
 
 ---
 ##### References
