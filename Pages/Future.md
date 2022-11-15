@@ -20,6 +20,8 @@ adoption of [[Digital Medicine System (DMS)]] seems like it might be huge for th
 ^^^
 removes the need for the physician to trust the patient
 
+must have [[Therapeutic Alliance]] regardless of the form of therapy
+
 ---
 ##### Related
 

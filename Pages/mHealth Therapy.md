@@ -18,7 +18,7 @@ A blended approach is necessary for an optimal app-based therapy
 
 ---
 ##### References
-([pdf](zotero://open-pdf/library/items/9FUDVGA5?page=2&annotation=VTBL6BYJ)) #aidan 
+Anthes, Emily. “Mental Health: There’s an App for That.” _Nature_ 532, no. 7597 (April 2016): 20–23. [https://doi.org/10.1038/532020a](https://doi.org/10.1038/532020a).
 
 ---
 ##### Hierarchy
