@@ -1,6 +1,6 @@
 ---
 tags :
-- Page/
+- Page
 creation date : 2022-10-31 11:13 
 ---
 

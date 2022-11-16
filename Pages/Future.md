@@ -4,9 +4,9 @@ tags :
 creation date : 2022-10-24 12:21 
 ---
 
-[[Proposed Digital Technologies]]
+#TODO #ryan summary
 
-#TODO Recommendations and concerns, our own ideas and reflections, different from unbiased info on history and present.
+[[Proposed Digital Technologies]]
 
 [[Multiple Composite Scenarios (MCS)]] removes the need for a therapist at all, or at least that is the goal of the developers of the framework
 

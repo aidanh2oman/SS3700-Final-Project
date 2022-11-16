@@ -1,16 +1,12 @@
 ---
 tags :
-- Page/Linked/Formatted/Unedited
+- Page
 creation date : 2022-10-31 11:17 
 ---
-#TODO More / better quality examples, Talk about how it affects relation
-digital journaling, emotion tracking, sleep tracking, biometric analysis
 
-what is the best way to explain the difference between offline tools and networked tools such at [[Telepsychiatry]] and anything else using networks such as [[Digital Communication]]
+[[Multiple Composite Scenarios (MCS)]] and [[Avatar Therapy]] are examples of offline [[Current Digital Technologies]]
 
-are there any offline digital tools that were used in the past but went out of fashion
-
-[[Multiple Composite Scenarios (MCS)]]
+Research left us wondering if there are any offline digital tools that were used in the past but went out of fashion
 
 ---
 ##### Related
@@ -25,7 +21,6 @@ are there any offline digital tools that were used in the past but went out of f
 ###### Up
 up:: [[Current Digital Technologies]]
 up:: [[History (2000-2020)]]
-
 ###### Down
 down:: 
 ###### Same

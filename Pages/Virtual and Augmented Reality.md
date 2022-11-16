@@ -21,7 +21,7 @@ VR allows people to experience their fears or triggering situations in a realist
 ##### References
 https://positivepsychology.com/virtual-reality-therapy/
 
-#TODO  link this properly (Bohil, Alicea, & Biocca, 2011)
+Bohil, Corey J., Bradly Alicea, and Frank A. Biocca. “Virtual Reality in Neuroscience Research and Therapy.” _Nature Reviews. Neuroscience_ 12, no. 12 (November 3, 2011): 752–62. [https://doi.org/10.1038/nrn3122](https://doi.org/10.1038/nrn3122).
 
 ---
 ##### Hierarchy
