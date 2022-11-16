@@ -46,7 +46,6 @@ remove linked once the page is properly placed in the hierarchy.
 ---
 
 ## These are only for us, remove from final submission, keep in a copy of the vault
-[[References]]
 [[Resources]]
 
 ---
@@ -57,8 +56,6 @@ up::
 down:: [[History (2000-2020)]]
 down:: [[Present (2020-2023)]]
 down:: [[Future]]
-down:: [[References]]
-down:: [[Resources]]
 ###### Same
 same:: 
 ###### Next

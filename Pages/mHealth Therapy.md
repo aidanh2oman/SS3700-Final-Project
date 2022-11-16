@@ -13,7 +13,6 @@ A blended approach is necessary for an optimal app-based therapy
 [[Just-In-Time Adaptive Interventions (JITAI)]]
 [[Apps for Suicide Prevention]]
 [[mHealth]]
-[[Balance Between In Person and Digital Interaction]]
 [[Just-In-Time Adaptive Interventions (JITAI)]]
 
 ---

@@ -21,7 +21,7 @@ Telepsychiatry has become increasingly popular over the course of the Covid-19 p
 ##### Related
 [[mHealth Therapy]]
 [[Offline Digital Tools]]
-[[Rapid Communication]]
+[[Digital Communication]]
 
 ---
 ##### References

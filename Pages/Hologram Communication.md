@@ -28,7 +28,7 @@ up:: [[Proposed Digital Technologies]]
 ###### Down
 down:: 
 ###### Same
-same:: [[Rapid Communication]]
+same:: [[Digital Communication]]
 ###### Next
 next:: 
 ###### Previous
