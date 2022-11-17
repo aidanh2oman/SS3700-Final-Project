@@ -1,10 +1,9 @@
 ---
 tags :
-- Page/
+- Page
 creation date : 2022-10-24 12:21 
 ---
-This is a page of future technologies and therapeutic concepts that we came across in our research, as well as a few concerns and things we thought as we learned about the patient-therapist relationship.
-[[Proposed Digital Technologies]]
+This is a page of [[Proposed Digital Technologies]] and therapeutic concepts that we came across in our research, as well as a few concerns and things we thought as we learned about the patient-therapist relationship.
 
 [[Multiple Composite Scenarios (MCS)]] removes the need for a therapist at all, or at least that is the goal of the developers of the framework
 
